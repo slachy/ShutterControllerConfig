@@ -1,0 +1,5 @@
+{
+    "automatic_blinds_control": true,
+    "closing_offset_minutes": 120,
+    "opening_offset_minutes": -20
+}
